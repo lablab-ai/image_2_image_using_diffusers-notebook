@@ -1,4 +1,3 @@
-# Lablab.ai Hackathons Code Examples
 Find useful code snippets and examples for recent Lablab.ai Hackathons
 
 ### Text-guided image-to-image generation with Stable Diffusion
